@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "14dff7d6a4fb7c10",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b61c7b02bef326d",
+        "type": "split",
+        "children": [
+          {
+            "id": "6540065433e0fe66",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c7caaeb38e3a7bd1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "README"
+                }
+              }
+            ]
+          },
+          {
+            "id": "119406c1506de3e8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "051a4113bdc2e07a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\MyWorkSpace\\DevNote",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+                        "name": "Git bash",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 238,
+                        "data": "\r\n\u001b[32mchoie@ChoiDaeGyu \u001b[35mMINGW64 \u001b[33m/c/MyWorkSpace/DevNote \u001b[36m(main)\r\n\u001b[0m$ git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   README.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\n\u001b[32mchoie@ChoiDaeGyu \u001b[35mMINGW64 \u001b[33m/c/MyWorkSpace/DevNote \u001b[36m(main)\r\n\u001b[0m$ git add .\r\nwarning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/appearance.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/graph.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/copilot/data.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/copilot/main.js', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/copilot/manifest.json', LF will be replaced by CRLF the next time Git\r\n\r\n\u001b[119Ct touches it\r\nwarning: in the working copy of '.obsidian/plugins/image-converter/main.js', LF will be replaced by CRLF the next time G\r\n\u001b[119CGit touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-excalidraw-plugin/data.json', LF will be replaced by CRLF th\r\n\u001b[119Che next time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-excalidraw-plugin/main.js', LF will be replaced by CRLF the \r\n\u001b[119C next time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-icon-folder/data.json', LF will be replaced by CRLF the next\r\n\u001b[119Ct time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-icon-folder/main.js', LF will be replaced by CRLF the next t\r\n\u001b[119Ctime Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-icon-folder/manifest.json', LF will be replaced by CRLF the \r\n\u001b[119C next time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-icon-folder/styles.css', LF will be replaced by CRLF the nex\r\n\u001b[119Cxt time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-linter/data.json', LF will be replaced by CRLF the next time\r\n\u001b[119Ce Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-linter/main.js', LF will be replaced by CRLF the next time G\r\n\u001b[119CGit touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-linter/manifest.json', LF will be replaced by CRLF the next \r\n\u001b[119C time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-mind-map/main.js', LF will be replaced by CRLF the next time\r\n\u001b[119Ce Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-outliner/main.js', LF will be replaced by CRLF the next time\r\n\u001b[119Ce Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-outliner/manifest.json', LF will be replaced by CRLF the nex\r\n\u001b[119Cxt time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-outliner/styles.css', LF will be replaced by CRLF the next t\r\n\u001b[119Ctime Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/terminal/data.json', LF will be replaced by CRLF the next time Git to\r\n\u001b[119Couches it\r\nwarning: in the working copy of '.obsidian/plugins/terminal/main.js', LF will be replaced by CRLF the next time Git touc\r\n\u001b[119Cches it\r\nwarning: in the working copy of '.obsidian/plugins/terminal/manifest.json', LF will be replaced by CRLF the next time Gi\r\n\u001b[119Cit touches it\r\nwarning: in the working copy of '.obsidian/plugins/terminal/styles.css', LF will be replaced by CRLF the next time Git t\r\n\u001b[119Ctouches it\r\nwarning: in the working copy of '.obsidian/types.json', LF will be replaced by CRLF the next time Git touches it        \r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it    \r\n\r\n\u001b[32mchoie@ChoiDaeGyu \u001b[35mMINGW64 \u001b[33m/c/MyWorkSpace/DevNote \u001b[36m(main)\r\n\u001b[0m$\u001b[1Cgit status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges to be committed:\r\n  (use \"git restore --staged <file>...\" to unstage)\r\n        \u001b[32mnew file:   .obsidian/app.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/appearance.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/community-plugins.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/core-plugins.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/graph.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/hotkeys.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/copilot/data.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/copilot/main.js\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/copilot/manifest.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/copilot/styles.css\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/image-converter/main.js\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/image-converter/manifest.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/image-converter/styles.css\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-excalidraw-plugin/data.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-excalidraw-plugin/main.js\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-excalidraw-plugin/manifest.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-excalidraw-plugin/styles.css\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-icon-folder/data.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-icon-folder/main.js\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-icon-folder/manifest.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-icon-folder/styles.css\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-linter/data.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-linter/main.js\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-linter/manifest.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-linter/styles.css\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-mind-map/main.js\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-mind-map/manifest.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-outliner/main.js\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-outliner/manifest.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/obsidian-outliner/styles.css\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/terminal/data.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/terminal/main.js\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/terminal/manifest.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/plugins/terminal/styles.css\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/types.json\r\n\u001b[0m        \u001b[32mnew file:   .obsidian/workspace.json\r\n\u001b[0m        \u001b[32mmodified:   README.md\r\n\r\n\u001b[0mChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\r\n\u001b[32mchoie@ChoiDaeGyu \u001b[35mMINGW64 \u001b[33m/c/MyWorkSpace/DevNote \u001b[36m(main)\r\n\u001b[0m$\u001b[1C",
+                        "rows": 29
+                      }
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: MINGW64:/c/MyWorkSpace/DevNote"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e00eb3bc6f55d75",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab044b0b66223911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d65c382743a4aa3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "54e4d626ccbe9b14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "62a1ebcd2b52921c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd2ca54ab0107aae",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d33406cde82e91f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21a54d24105258fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "환영합니다!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "환영합니다! 의 백링크"
+            }
+          },
+          {
+            "id": "f8d3553dd144b483",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "환영합니다!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "환영합니다! 의 나가는 링크"
+            }
+          },
+          {
+            "id": "f2522e0eb287bfbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "28611e19d40ececa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "환영합니다!.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "환영합니다! 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "publish:변경사항 게재": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "051a4113bdc2e07a",
+  "lastOpenFiles": [
+    "README.md",
+    "환영합니다!.md"
+  ]
+}
