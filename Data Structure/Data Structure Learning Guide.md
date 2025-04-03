@@ -15,3 +15,4 @@
 
 - [자료구조의 정의 및 표현 방법](/Data%20Structure/Abastract%20Data%20Type.md)
 - [배열(Array)](/Data%20Structure/Array.md)
+- [연결 리스트(Linked List)](/Data%20Structure/Linked%20List.md)
