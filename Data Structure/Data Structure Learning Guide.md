@@ -1,6 +1,6 @@
 # 자료구조(Data Structure)
 
-<img src="https://waytoeasylearn.com/storage/2024/05/What-is-Data-Structure-1536x1115.png.webp" width="700" height="500"/>
+<img src="https://waytoeasylearn.com/storage/2024/05/What-is-Data-Structure-1536x1115.png.webp" width="1200" height="600"/>
 
 - `자료구조(Data Structure)`란, **컴퓨터가 데이터를 효율적으로 다룰 수 있게 도와주는 데이터 보관 방법과 데이터에 관한 연산의 총체**
 - 프로그래밍 언어에서 흔히 사용되는 32bit 정수 자료형인 `int` 또한 자료구조이며, 다음을 통해 데이터 보관 방법과 연산을 정의하고 있다는 걸 알 수 있음
