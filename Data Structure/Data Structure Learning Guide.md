@@ -11,6 +11,7 @@
 
 - 이러한 자료구조는 프로그램을 최적화 하는 데에 필수적인 지식이며, [Algorithm](/Algorithm/Algorithm%20Learning%20Guide.md)의 기반이 되므로 꼭 잘 알아야 하는 지식  
 
-## 선형 자료구조(Linear Data Structures)
+## 📒선형 자료구조(Linear Data Structures)
 
 - [자료구조의 정의 및 표현 방법](/Data%20Structure/Abastract%20Data%20Type.md)
+- [배열(Array)](/Data%20Structure/Array.md)
