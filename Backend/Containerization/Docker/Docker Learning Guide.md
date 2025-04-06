@@ -8,10 +8,22 @@
 - `Docker`를 사용하면 애플리케이션을 인프라에서 분리할 수 있어, 소프트웨어를 빠르게 배포할 수 있음
 - 컨테이너는 매우 가볍고 모든 종속성을 제공하기 때문에, <b>"내 컴퓨터에서는 작동했는데.."라는 문제를 크게 줄일 수 있음</b>
 
-### ✅도커를 이해하기 위해 필요한 지식들
+<br>
+
+## Install
+### Windows
+- WSL2(Windows Subsystem for Linux) 설치
+- Docker Desktop 설치
+
+### Linux (Ubuntu)
+- Docker 설치
+
+<br>
+
+## ✅도커를 이해하기 위해 필요한 지식들
 
 - [Docker의 개념과 필요한 이유](/Backend/Containerization/Docker/Docker%20Overview.md)
-- Dockerfile
+- [Docker File](/Backend/Containerization/Docker/Dockerfile%20개념.md)
 - Docker Image
 - Docker Container
 - Docker Hub
@@ -21,9 +33,3 @@
 - Docker Socket
 - Docker Daemon  
 
-### Windows
-- WSL2(Windows Subsystem for Linux) 설치
-- Docker Desktop 설치
-
-### Linux (Ubuntu)
-- Docker 설치
