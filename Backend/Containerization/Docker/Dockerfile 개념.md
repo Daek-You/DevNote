@@ -24,7 +24,7 @@ FROM ubuntu:20.04
 - 여기서 `ubuntu:20.04`는 Ubuntu 20.04 버전을 기반으로 한다는 의미
 - 다양한 기반 이미지(Node.js, Python, Java 등)들을 [도커 허브(Docker Hub)](/Backend/Containerization/Docker/Docker%20Hub.md)에서 찾을 수 있음
 - 하지만 모든 기반 이미지가 도커 허브에 있는 것은 아니며, <b>없을 경우에는 도커 파일을 통해 직접 이미지로 만들어서 사용</b>해야 함
-    - 예를 들어어, `Nginx`, `MySQL`과 같은 프로그램들은 공식 사이트에서 이미지를 제공해주지만, 우리가 만드는 프로젝트(SpringBoot, Express.js 등)는 고유하므로 우리가 직접 도커 파일로 작성해야 함  
+    - 예를 들어, `Nginx`, `MySQL`과 같은 프로그램들은 공식 사이트에서 이미지를 제공해주지만, 우리가 만드는 프로젝트(SpringBoot, Express.js 등)는 고유하므로 우리가 직접 도커 파일로 작성해야 함  
 
 ### 2) `WORKDIR`: 작업 디렉토리 설정
 
