@@ -8,6 +8,7 @@
 
 - [Data Structure](/Data%20Structure/Data%20Structure%20Learning%20Guide.md)
 - [Algorithm](/Algorithm/Algorithm%20Learning%20Guide.md)  
+- [Operating System](/OS/OS%20Learning%20Guide.md)  
 
 <br>
 
