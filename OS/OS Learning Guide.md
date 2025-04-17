@@ -18,7 +18,7 @@
 ### CPU
 
 ### Memory
-
+- [메모리 관리(Memory Management)](/OS/Memory%20Management.md)
 - [메모리 단편화(Memory Fragmentation)](/OS/Memory%20Fragmentation.md)  
 
 ### Storage
