@@ -12,41 +12,9 @@
 
 <br>
 
-# 📦Backend
-### Web Server
-- Nginx
-- Apache
-
-### Web Application Server(WAS)
-- [Spring Framework](./Backend/Spring/Spring%20Learning%20Guide.md)
-
-### Authentication
-- Cookie
-- Session
-- JWT(Json Web Token)
-- OAuth
-
-### Database
-- MySQL
-- MongoDB
-- PostgreSQL
-
-### Caching
-- CDN
-- Memcached
-- Redis
-
-### Web Security
-- MD5
-- SHA
-- scrypt
-- bcrypt
-- HTTPS
-- CORS
-- CSP
-- OWASP Risks
-- SSL/TLS
-- Server Security
+# 🔍Web
+- [Frontend](/Frontend/Frontend%20Learning%20Guide.md)
+- [Backend](/Backend/Backend%20Learning%20Guide.md)
 
 <br>
 
