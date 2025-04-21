@@ -14,11 +14,14 @@
 <br>
 
 ## 🖥️운영체제의 3대 자원
-### 1. CPU
+### Overview
+- [컴퓨터 부팅 과정의 이해](/OS/컴퓨터%20부팅%20과정의%20이해.md)
 
-### 2. Memory
+### CPU
+
+### Memory
 - [메모리 관리(Memory Management)](/OS/Memory%20Management.md)
 - [주소 바인딩(Address Binding)](/OS/Memory%20Address%20Binding.md)
 - [메모리 단편화(Memory Fragmentation)](/OS/Memory%20Fragmentation.md)  
 
-### 3. Storage
+### Storage
