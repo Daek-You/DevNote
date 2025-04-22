@@ -17,7 +17,7 @@
 ### Overview
 - [컴퓨터 부팅 과정의 이해](/OS/컴퓨터%20부팅%20과정의%20이해.md)
 - [컴퓨터 시스템 구성](/OS/Computer%20System%20Organization.md)
-
+- [인터럽트(Interrupt): CPU에게 알리는 신호](/OS/Interrupt.md)
 
 ### CPU
 
