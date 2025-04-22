@@ -16,6 +16,8 @@
 ## 🖥️운영체제의 3대 자원
 ### Overview
 - [컴퓨터 부팅 과정의 이해](/OS/컴퓨터%20부팅%20과정의%20이해.md)
+- [컴퓨터 시스템 구성](/OS/Computer%20System%20Organization.md)
+
 
 ### CPU
 
