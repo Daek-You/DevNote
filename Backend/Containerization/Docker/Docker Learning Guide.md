@@ -12,7 +12,7 @@
 
 ## Install
 ### Windows
-- WSL2(Windows Subsystem for Linux) 설치
+- [WSL2(Windows Subsystem for Linux) 설치](/OS/WSL2.md)
 - Docker Desktop 설치
 
 ### Linux (Ubuntu)
