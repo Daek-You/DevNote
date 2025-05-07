@@ -45,7 +45,6 @@
 ```powershell
 wsl --install
 ```  
-
 - 이 명령어 한 줄에는 다음과 같은 흐름이 자동으로 처리된다.  
     1. "Windows Subsystem for Linux" 기능 활성화
     2. "Virtual Machine Platform" 기능 활성화
@@ -59,6 +58,23 @@ wsl -l -v
 ```  
 
 - GUI 앱 실행, GPU 가속 등 WSL2 최신 기능이 Windows 11에서 기본으로 지원된다.
+
+#### ❌[ERROR] Wsl/CallMsi/REGDB_E_CLASSNOTREG  
+
+1. 다음 명령어를 통해 WSL 기능과 가상 머신 기능을 활성화 및 재부팅  
+
+```powershell
+# WSL(Windows Subsystem for Linux) 기능 활성화
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+
+# 가상 머신 플랫폼(Virtual Machine Platform) 기능 활성화
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+```  
+
+2. [Microsoft WSL Releases](https://github.com/microsoft/WSL/releases)에서 최신 버전을 받아 설치  
+3. 다시 `wsl --install` 진행  
+
+<br>
 
 ### Windows 10
 
