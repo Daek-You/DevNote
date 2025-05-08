@@ -20,14 +20,14 @@
 
 # 🏙️Infrastructure
 ### Hosting
-- [AWS(Amazon Web Service)](./Backend/Hosting/AWS/AWS%20Learning%20Guide.md)
+- [AWS(Amazon Web Service)](/Infrastructure/AWS/AWS%20Learning%20Guide.md)
 
 ### Containerization
-- [Docker](/Backend/Containerization/Docker/Docker%20Learning%20Guide.md)
+- [Docker](/Infrastructure/Containerization/Docker/Docker%20Learning%20Guide.md)
 - Kubernetes(K8s)
 
 ### CI/CD
-- Github Action
+- [Github Action](/Infrastructure/CICD/Github%20Actions/Github%20Actions%20Learning%20Guide.md)
 - Gitlab CI/CD
 - Jenkins
 

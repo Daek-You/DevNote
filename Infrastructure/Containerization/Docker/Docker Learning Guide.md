@@ -13,7 +13,7 @@
 ## Install
 ### Windows
 - [WSL2(Windows Subsystem for Linux) 설치](/OS/WSL2.md)
-- [Docker Desktop 설치](/Backend/Containerization/Docker/Docker%20Desktop.md)
+- [Docker Desktop 설치](Docker%20Desktop.md)
 
 ### Linux (Ubuntu)
 - Docker 설치
@@ -22,9 +22,9 @@
 
 ## ✅도커를 이해하기 위해 필요한 지식들
 
-- [Docker의 개념과 필요한 이유](/Backend/Containerization/Docker/Docker%20Overview.md)
-- [Docker File](/Backend/Containerization/Docker/Dockerfile%20개념.md)
-- [Docker Image](/Backend/Containerization/Docker/Docker%20Image.md)
+- [Docker의 개념과 필요한 이유](Docker%20Overview.md)
+- [Docker File](Dockerfile%20개념.md)
+- [Docker Image](Docker%20Image.md)
 - Docker Container
 - Docker Hub
 - Docker Volume
