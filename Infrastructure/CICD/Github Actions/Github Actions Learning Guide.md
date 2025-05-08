@@ -1,6 +1,6 @@
 # Github Actions
 
-<img src="https://framerusercontent.com/images/DpFlQxGUeuFQ4c035JgoDfQos.jpg?scale-down-to=1024" width="1200">  
+<img src="https://www.winwire.com/wp-content/uploads/2024/10/Github-Actions.webp" width="1200">  
 
 - `Github Action`은 <b>빌드, 테스트 및 배포 파이프라인을 자동화</b>할 수 있는 CI/CD 플랫폼
 - 리포지토리(Repository)에 대한 모든 `PR(Pull Request)`이나 `Merged PR`을 프로덕션 환경에 배포하는 워크플로우를 생성할 수 있음
